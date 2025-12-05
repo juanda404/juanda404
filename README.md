@@ -60,4 +60,16 @@ const AboutMe = () => {
 
 export default AboutMe;
 
+\### :zap: Actividad reciente
+
+\<!--START\_SECTION:activity-->
+
+\<!--END\_SECTION:activity-->
+
+
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
+
 
